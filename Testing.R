@@ -1,4 +1,0 @@
-print("ESTE DOCUMENTO LO CREO PEPIRRIN")
-
-print("Y AHORA ESTA EN GitHub")
-
